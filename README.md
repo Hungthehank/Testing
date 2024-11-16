@@ -1,4 +1,4 @@
-# Testing
+# Test presentation
 Sử dụng python để phân khúc khách hàng, tìm insight
 
 Query 04: Average number of pageviews by purchaser type (purchasers vs non-purchasers) in June, July 2017. (fixed)
