@@ -8,3 +8,5 @@ Query 04: Average number of pageviews by purchaser type (purchasers vs non-purch
 
 link file
 https://drive.google.com/drive/folders/1aIGwXN-rozY1ph7EvroD5vjHmT92XiaH?usp=drive_link
+
+https://drive.google.com/drive/folders/1aIGwXN-rozY1ph7EvroD5vjHmT92XiaH?usp=drive_link
